@@ -1,0 +1,7 @@
+{
+  "count": 129,
+  "pad": 3,
+  "desktop": { "base": "/media/sequence/desktop/f_", "width": 1600, "height": 900 },
+  "mobile": { "base": "/media/sequence/mobile/f_", "width": 800, "height": 450 },
+  "ext": ".webp"
+}

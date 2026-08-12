@@ -1,0 +1,8 @@
+{
+  "name": "Mega Auto Service",
+  "short_name": "MEGA",
+  "icons": [{ "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }],
+  "theme_color": "#2C2D2C",
+  "background_color": "#FFFFFF",
+  "display": "browser"
+}
